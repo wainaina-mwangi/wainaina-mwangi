@@ -6,6 +6,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wainaina-mwangi.Wainaina-mwangi&"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -81,4 +87,3 @@
 <p align="left">Email: wainainaerastus2@gmail.com<br>LinkedIn: Erastus Wainaina</p>
 
 ###
-
